@@ -1,0 +1,11 @@
+
+#piechart_div{
+    width: 100%;
+    height: 500px;
+}
+
+#sub_piechart_div{
+    width: 100%;
+    height: 500px;
+    display: none;
+}
